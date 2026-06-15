@@ -1,0 +1,124 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="M13uIFmbvxZznz1_OoFN">
+    <mxGraphModel dx="860" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dwR506ENF43EQzKsYscV-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Patient Registration Form&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="480" x="200" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dwR506ENF43EQzKsYscV-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 14px;&quot;&gt;Personal Information&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="480" x="200" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dwR506ENF43EQzKsYscV-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 14px;&quot;&gt;First Name&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="200" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="dwR506ENF43EQzKsYscV-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 14px;&quot;&gt;M.I&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="200" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="dwR506ENF43EQzKsYscV-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Garamond&quot; style=&quot;font-size: 14px;&quot;&gt;Last Name&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="200" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="dwR506ENF43EQzKsYscV-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;DOB&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="200" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="dwR506ENF43EQzKsYscV-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;SSN&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="200" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="dwR506ENF43EQzKsYscV-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Address:&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="200" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="dwR506ENF43EQzKsYscV-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;City:&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="320" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="dwR506ENF43EQzKsYscV-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;State&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="440" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="dwR506ENF43EQzKsYscV-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Zip Code:&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="560" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="dwR506ENF43EQzKsYscV-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Contact Information&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="480" x="200" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="dwR506ENF43EQzKsYscV-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Email:&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="200" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="dwR506ENF43EQzKsYscV-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Phone:&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="200" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="dwR506ENF43EQzKsYscV-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Sex:&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="200" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="dwR506ENF43EQzKsYscV-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;User Name:&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="200" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dwR506ENF43EQzKsYscV-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Password:&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="320" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dwR506ENF43EQzKsYscV-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Medical Information&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="480" x="200" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="dwR506ENF43EQzKsYscV-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Insurance:&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="200" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="dwR506ENF43EQzKsYscV-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Vaccinated&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="200" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="dwR506ENF43EQzKsYscV-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Yes Radio button:" vertex="1">
+          <mxGeometry height="40" width="120" x="320" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="dwR506ENF43EQzKsYscV-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;No Radio button:&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="440" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="dwR506ENF43EQzKsYscV-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;List of Symptoms&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="480" x="200" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="dwR506ENF43EQzKsYscV-46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Symptom Checkboxes&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="110" width="480" x="200" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="dwR506ENF43EQzKsYscV-47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Please list additional symptoms here:&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="120" width="480" x="200" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="dwR506ENF43EQzKsYscV-49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Company Name&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="150" x="10" as="geometry" />
+        </mxCell>
+        <mxCell id="dwR506ENF43EQzKsYscV-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Logo&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="10" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dwR506ENF43EQzKsYscV-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Date&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="720" as="geometry" />
+        </mxCell>
+        <mxCell id="dwR506ENF43EQzKsYscV-52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Footer&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="480" x="200" y="950" as="geometry" />
+        </mxCell>
+        <mxCell id="dwR506ENF43EQzKsYscV-53" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Contact us&amp;nbsp;&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="200" y="990" as="geometry" />
+        </mxCell>
+        <mxCell id="dwR506ENF43EQzKsYscV-54" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Address&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="200" y="1030" as="geometry" />
+        </mxCell>
+        <mxCell id="dwR506ENF43EQzKsYscV-55" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Health slider: 1-10&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="560" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="dwR506ENF43EQzKsYscV-56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Male Radio button&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="320" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="dwR506ENF43EQzKsYscV-57" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Female Radio button&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="440" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="dwR506ENF43EQzKsYscV-58" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Other: Radio button&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="560" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="dwR506ENF43EQzKsYscV-59" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Yes Radio button&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="320" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="dwR506ENF43EQzKsYscV-60" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Garamond&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;No Radio button:&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="440" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="dwR506ENF43EQzKsYscV-62" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="List Provider:" vertex="1">
+          <mxGeometry height="40" width="120" x="560" y="600" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
